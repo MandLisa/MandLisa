@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lisa Mandl, Ph.D student @Technical University of Munich and Berchtesgaden National Park
-- 👀 I’m fascinated by the capabilities remote sensing and Earth observation has to offer
-- 🌱 I’m mainly using these methods in the context of (forest) ecosystem dynamics and their investigation
+- 👋 Hi, I’m Lisa Mandl, Ph.D student @Technical University of Munich - Earth Observation for Ecosystem Management and Berchtesgaden National Park
+- 👀 I’m fascinated by the capabilities Earth observation has to offer
+- 🌱 I’m mainly using these methods in the context of (forest) ecosystem dynamics 
 - 📫 If you want to contact me, feel free to do so: lisa.mandl@tum.de
 
 <!---
