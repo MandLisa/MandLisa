@@ -29,6 +29,12 @@ A powerful, open-source framework for generating **analysis-ready data cubes** a
 
 ---
 
+## 📝 Recent publications  
+- **Mandl, L.**; Viana-Soto, A.; Seidl, R.; Stritih, A.; Senf, C. (2024). Unmixing-based forest recovery indicators for predicting long-term recovery success. *Remote Sensing of Environment*. https://doi.org/10.1016/j.rse.2024.114194
+- **Mandl, L.**; Stritih, A.; Seidl, R.; Senf, C. (2023). Spaceborne LiDAR for characterizing forest structure across scales in the European Alps. *Remote Sensing in Ecology and Conservation*. [https://doi.org/10.1016/j.rse.2024.114194](https://doi.org/10.1002/rse2.330)
+- **Mandl, L.**; Lang, S. (2023). Uncovering early traces of bark beetle induced forest stress via semantically enriched sentinel-2 data and spectral indices. *Journal of Photogrammetry, Remote Sensing and Geoinformation Science*. https://doi.org/10.1007/s41064-023-00240-4
+- Vandewiele, M.; Geres, L.; Lotz, A.; **Mandl, L.**; Richter, T.; Seibold, S.; Seidl, R.; Senf, C. (2023). Mapping spatial microclimate patterns in mountain forests from LiDAR. *Agricultural and Forest Meteorology*. https://doi.org/10.1016/j.agrformet.2023.109662
+- Argentin, A. L.; Hauthaler, T.; Liebl, M.; Robl, J.; Hergarten, S.; Prasicek, G.; Salcher, B.; Hölbling, D.; Pfalzner-Gibbon, C.; **Mandl, L.**; Maroschek, M.; Abad, L.; Dabiri, Z. (2023). *Geomorphology*. https://doi.org/10.1016/j.geomorph.2022.108363 
 <!---
 lisamandl/lisamandl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Click the Preview link to see how it looks live.
