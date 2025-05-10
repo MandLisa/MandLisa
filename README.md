@@ -6,7 +6,9 @@
 I explore how satellite data can help us better understand and manage (forest) ecosystem dynamics.  
 I’m passionate about scalable, open, and reproducible Earth observation workflows that connect science with practice.
 
-📫 Reach me at: lisa.mandl@tum.de
+📫 Reach me at: lisa.mandl@tum.de  
+
+You want to find out more about me and my work? Check my [CV](https://syncandshare.lrz.de/getlink/fiGMdzJQsEyyVVuuf7rjuL/CV_May2025_quer.pdf)!
 
 ---
 
@@ -38,7 +40,10 @@ A powerful, open-source framework for generating **analysis-ready data cubes** a
   
 - Vandewiele, M.; Geres, L.; Lotz, A.; **Mandl, L.**; Richter, T.; Seibold, S.; Seidl, R.; Senf, C. (2023). Mapping spatial microclimate patterns in mountain forests from LiDAR. *Agricultural and Forest Meteorology*. https://doi.org/10.1016/j.agrformet.2023.109662
   
-- Argentin, A. L.; Hauthaler, T.; Liebl, M.; Robl, J.; Hergarten, S.; Prasicek, G.; Salcher, B.; Hölbling, D.; Pfalzner-Gibbon, C.; **Mandl, L.**; Maroschek, M.; Abad, L.; Dabiri, Z. (2023). *Geomorphology*. https://doi.org/10.1016/j.geomorph.2022.108363 
+- Argentin, A. L.; Hauthaler, T.; Liebl, M.; Robl, J.; Hergarten, S.; Prasicek, G.; Salcher, B.; Hölbling, D.; Pfalzner-Gibbon, C.; **Mandl, L.**; Maroschek, M.; Abad, L.; Dabiri, Z. (2023). *Geomorphology*. https://doi.org/10.1016/j.geomorph.2022.108363
+
+📚 For all publications, please refer to [my Google Scholar Profile](https://scholar.google.com/citations?user=QQZZr_0AAAAJ&hl=de).
+
 <!---
 lisamandl/lisamandl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Click the Preview link to see how it looks live.
