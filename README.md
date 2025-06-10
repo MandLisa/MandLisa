@@ -15,19 +15,19 @@ You want to find out more about me and my work? Check my [CV](https://syncandsha
 ### 🧠 Programming languages & tools I like to use
 
 🐍 **Python**  
-Used for large-scale Earth observation workflows, such as handling raster time series (`xarray`, `rioxarray`), training machine learning models, and accessing APIs like Google Earth Engine.
+I use Python for large-scale Earth observation workflows, such as handling raster time series (`xarray`, `rioxarray`), training machine learning models (`scikit learn`, `keras`) and accessing APIs like Google Earth Engine.
 
 📓 **Jupyter Notebooks**  
 My go-to environment for interactive, reproducible research. Ideal for prototyping models, visualizing spatial-temporal trends, and communicating insights in both Python and R.
 
 📊 **R**  
-Trusted for statistical modeling, especially GAMs and mixed-effects models via `mgcv` and `nlme`, as well as publication-ready figures using `ggplot2`. Also used for geospatial workflows (`terra`, `sf`) in ecology and forest research.
+Used for statistical modeling, especially GAMs and mixed-effects models via `mgcv` and `nlme`, as well as publication-ready figures using `ggplot2`. I also use R for geospatial workflows (`terra`, `sf`) in ecology and forest research.
 
 🐚 **Bash / Shell scripting**  
 Efficient for automation, high-performance computing, and batch processing of satellite imagery. Particularly useful for organizing and pre-processing large raster archives, often in combination with command-line tools such as GDAL for reprojection, format conversion, and tiling.
 
 🚀 **FORCE**  
-A powerful, open-source framework for generating analysis-ready data cubes and computing spectral-temporal metrics at scale. I use FORCE to preprocess and analyze multi-decadal Landsat and Sentinel time series.
+A powerful, open-source framework for generating analysis-ready data cubes and computing spectral-temporal metrics at scale. I use FORCE to preprocess and analyze multi-decadal Landsat and Sentinel-2 time series.
 
 ---
 
