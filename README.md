@@ -24,7 +24,7 @@ My go-to environment for interactive, reproducible research. Ideal for prototypi
 Used for statistical modeling, especially GAMs and mixed-effects models via `mgcv` and `nlme`, as well as publication-ready figures using `ggplot2`. I also use R for geospatial workflows (`terra`, `sf`) in ecology and forest research.
 
 🐚 **Bash / Shell scripting**  
-Efficient for automation, high-performance computing, and batch processing of satellite imagery. Particularly useful for organizing and pre-processing large raster archives, often in combination with command-line tools such as GDAL for reprojection, format conversion, and tiling.
+Efficient for automation, high-performance computing, and batch processing of satellite imagery. I particularly use command-line tools such as GDAL for reprojection, format conversion, and tiling.
 
 🚀 **FORCE**  
 A powerful, open-source framework for generating analysis-ready data cubes and computing spectral-temporal metrics at scale. I use FORCE to preprocess and analyze multi-decadal Landsat and Sentinel-2 time series.
