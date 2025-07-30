@@ -8,7 +8,7 @@ I’m passionate about scalable, open, and reproducible Earth observation workfl
 
 📫 Reach me at: lisa.mandl@tum.de  
 
-You want to find out more about me and my work? Check my [CV](https://syncandshare.lrz.de/getlink/fi7jGvSBWbsEktBSKMLa9n/CV_Mandl_jul2025.pdf)!
+You want to find out more about me and my work? Check my [CV](https://syncandshare.lrz.de/getlink/fi69xoHei8w2hHs7tLV8GR/CV_Mandl_jul2025.pdf)!
 
 ---
 
