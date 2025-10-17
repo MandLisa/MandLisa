@@ -3,7 +3,7 @@
 🎓 Postdoctoral researcher at the [Technical University of Munich (TUM)](https://www.tum.de)  
 🌍 [Professorship of Earth Observation for Ecosystem Management](https://www.lss.ls.tum.de/en/eoem/start/)  
 
-I explore how satellite data can help us better understand and manage (forest) ecosystem dynamics.  
+I explore how satellite data can help us better understand and manage ecosystems.  
 I’m passionate about scalable, open, and reproducible Earth observation workflows that connect science with practice.
 
 📫 Reach me at: lisa.mandl@tum.de  
