@@ -21,7 +21,7 @@ I use Python for large-scale Earth observation workflows, such as handling raste
 My go-to environment for interactive, reproducible research. Ideal for prototyping models, visualizing spatial-temporal trends, and communicating insights in both Python and R.
 
 📊 **R**  
-Used for statistical modeling, especially GAMs and mixed-effects models via `mgcv` and `nlme`, as well as publication-ready figures using `ggplot2`. I also use R for geospatial workflows (`terra`, `sf`) in ecology and forest research.
+Used for statistical modeling, especially GAMs and mixed-effects models via `mgcv` and `nlme`, as well as publication-ready figures using `ggplot2`. I also use R for geospatial workflows (`terra`, `sf`) for ecological applications.
 
 🐚 **Bash / Shell scripting**  
 Efficient for automation, high-performance computing, and batch processing of satellite imagery. I particularly use command-line tools such as GDAL for reprojection, format conversion, and tiling.
