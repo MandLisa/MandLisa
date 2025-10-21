@@ -32,6 +32,8 @@ A powerful, open-source framework for generating analysis-ready data cubes and c
 ---
 
 ## 📝 Recent publications  
+- **Mandl, L.**; Cerrioni, M.; Radek, Bače; [...], Senf, C. (2025): The amount of undisturbed forest in proximity of severe disturbance patches enhances their recovery in temperate Europe. "Landscape Ecology*. [https://doi.org/10.1007/s10980-025-02231-9]
+  
 - **Mandl, L.**; Viana-Soto, A.; Seidl, R.; Stritih, A.; Senf, C. (2024). Unmixing-based forest recovery indicators for predicting long-term recovery success. *Remote Sensing of Environment*. https://doi.org/10.1016/j.rse.2024.114194
   
 - **Mandl, L.**; Stritih, A.; Seidl, R.; Senf, C. (2023). Spaceborne LiDAR for characterizing forest structure across scales in the European Alps. *Remote Sensing in Ecology and Conservation*. [https://doi.org/10.1016/j.rse.2024.114194](https://doi.org/10.1002/rse2.330)
