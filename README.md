@@ -40,6 +40,8 @@ A powerful, open-source framework for generating analysis-ready data cubes and c
   
 - **Mandl, L.**; Lang, S. (2023). Uncovering early traces of bark beetle induced forest stress via semantically enriched sentinel-2 data and spectral indices. *Journal of Photogrammetry, Remote Sensing and Geoinformation Science*. https://doi.org/10.1007/s41064-023-00240-4
   
+- Richter, T.; Seidl, R.; Geres, L.; König, S.; **Mandl, L.**; Senf, C.; Keller, A.; Seibold, S. (2025): Landscape context modulates the effect of local canopy cover on forest multidiversity across elevations. *Journal of Applied Ecology*. https://doi.org/10.1111/1365-2664.70195
+  
 - Vandewiele, M.; Geres, L.; Lotz, A.; **Mandl, L.**; Richter, T.; Seibold, S.; Seidl, R.; Senf, C. (2023). Mapping spatial microclimate patterns in mountain forests from LiDAR. *Agricultural and Forest Meteorology*. https://doi.org/10.1016/j.agrformet.2023.109662
   
 - Argentin, A. L.; Hauthaler, T.; Liebl, M.; Robl, J.; Hergarten, S.; Prasicek, G.; Salcher, B.; Hölbling, D.; Pfalzner-Gibbon, C.; **Mandl, L.**; Maroschek, M.; Abad, L.; Dabiri, Z. (2023). *Geomorphology*. https://doi.org/10.1016/j.geomorph.2022.108363
