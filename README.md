@@ -18,7 +18,7 @@ You want to find out more about me and my work? Check my [CV](https://drive.goog
 I use Python for large-scale Earth observation workflows, such as handling raster time series (`xarray`, `rioxarray`), training machine learning models (`scikit learn`, `keras`) and accessing APIs like Google Earth Engine.
 
 📓 **Jupyter Notebooks**  
-My go-to environment for interactive, reproducible research. Ideal for prototyping models, visualizing spatial-temporal trends, and communicating insights in both Python and R.
+My go-to environment for interactive, reproducible research. Ideal for teaching, prototyping models, visualizing spatial-temporal trends, and communicating insights in both Python and R.
 
 📊 **R**  
 Used for statistical modeling, especially GAMs and mixed-effects models via `mgcv` and `nlme`, as well as publication-ready figures using `ggplot2`. I also use R for geospatial workflows (`terra`, `sf`) for ecological applications.
