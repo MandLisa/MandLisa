@@ -38,9 +38,11 @@ A powerful, open-source framework for generating analysis-ready data cubes and c
   
 - **Mandl, L.**; Viana-Soto, A.; Seidl, R.; Stritih, A.; Senf, C. (2024). Unmixing-based forest recovery indicators for predicting long-term recovery success. *Remote Sensing of Environment*. https://doi.org/10.1016/j.rse.2024.114194
   
-- **Mandl, L.**; Stritih, A.; Seidl, R.; Senf, C. (2023). Spaceborne LiDAR for characterizing forest structure across scales in the European Alps. *Remote Sensing in Ecology and Conservation*. [https://doi.org/10.1016/j.rse.2024.114194](https://doi.org/10.1002/rse2.330)
+- **Mandl, L.**; Stritih, A.; Seidl, R.; Senf, C. (2023). Spaceborne LiDAR for characterizing forest structure across scales in the European Alps. *Remote Sensing in Ecology and Conservation*. https://doi.org/10.1002/rse2.330
   
 - **Mandl, L.**; Lang, S. (2023). Uncovering early traces of bark beetle induced forest stress via semantically enriched sentinel-2 data and spectral indices. *Journal of Photogrammetry, Remote Sensing and Geoinformation Science*. https://doi.org/10.1007/s41064-023-00240-4
+
+- Potterf, M.; Schattenberg, C.; [...]; **Mandl, L.**; [...]; Seidl, R. (2026): Tree regeneration after unprecedented forest disturbances in Central Europe is robust but maladapted to future climate change. *Global Change Biology*. https://doi.org/10.1111/gcb.70734
   
 - Richter, T.; Seidl, R.; Geres, L.; König, S.; **Mandl, L.**; Senf, C.; Keller, A.; Seibold, S. (2025): Landscape context modulates the effect of local canopy cover on forest multidiversity across elevations. *Journal of Applied Ecology*. https://doi.org/10.1111/1365-2664.70195
   
