@@ -1,12 +1,16 @@
 ## 👋 Hi, I’m Lisa Mandl
 
-🎓 Postdoctoral researcher at the [Technical University of Munich (TUM)](https://www.tum.de)  
-🌍 [Professorship of Earth Observation for Ecosystem Management](https://www.lss.ls.tum.de/en/eoem/start/)  
+🎓 Postdoctoral researcher at the 
+🌍 [EO Analytics group](https://www.plus.ac.at/geoinformatik/research/eo-analytics/?lang=en), Department of Geoinformatics - Z_GIS, University of Salzburg 
+&
+🌍 [Professorship of Earth Observation for Ecosystem Management](https://www.lss.ls.tum.de/en/eoem/start/), Technical University of Munich
 
-I explore how satellite data can help us better understand and manage ecosystems.  
-I’m passionate about scalable, open, and reproducible Earth observation workflows that connect science with practice.
+My research lies at the intersection of (ecological) remote sensing, spatial statistics, and machine learning, with a particular interest in representation learning, spatial and temporal inference, and the integration of data-driven methods with domain knowledge.
 
-📫 Reach me at: lisa.mandl@tum.de  
+I am especially interested in understanding what information we can extract from Earth observation data, how reliable and transferable our methods are, and how we can use them to address ecological and environmental questions.
+
+
+📫 Reach me at: lisa.mandl@plus.ac.at || lisa.mandl@tum.de  
 
 You want to find out more about me and my work? Check my [CV](https://drive.google.com/file/d/1HxFermmAsX6UzvQ5sNoLPWaJe5wGAm8A/view?usp=drive_link)!
 
