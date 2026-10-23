@@ -12,7 +12,7 @@ I am especially interested in understanding what information we can extract from
 
 📫 Reach me at: lisa.mandl@plus.ac.at || lisa.mandl@tum.de  
 
-You want to find out more about me and my work? Check my [CV](https://drive.google.com/file/d/1HxFermmAsX6UzvQ5sNoLPWaJe5wGAm8A/view?usp=drive_link)!
+You want to find out more about me and my work? Check my [CV](https://drive.google.com/file/d/1GlNRu5jYkjEJcHKSb9ekbgX9mTQpEnvm/view?usp=drive_link)!
 
 ---
 
