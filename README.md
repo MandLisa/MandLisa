@@ -54,7 +54,7 @@ A powerful, open-source framework for generating analysis-ready data cubes and c
   
 - Argentin, A. L.; Hauthaler, T.; Liebl, M.; Robl, J.; Hergarten, S.; Prasicek, G.; Salcher, B.; Hölbling, D.; Pfalzner-Gibbon, C.; **Mandl, L.**; Maroschek, M.; Abad, L.; Dabiri, Z. (2023). *Geomorphology*. https://doi.org/10.1016/j.geomorph.2022.108363
 
-📚 For all publications, refer to [my Google Scholar Profile](https://scholar.google.com/citations?user=QQZZr_0AAAAJ&hl=de).
+📚 For all publications, please refer to [my Google Scholar Profile](https://scholar.google.com/citations?user=QQZZr_0AAAAJ&hl=de).
 
 <!---
 lisamandl/lisamandl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
